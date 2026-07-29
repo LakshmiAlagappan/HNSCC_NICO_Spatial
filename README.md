@@ -7,7 +7,7 @@ This repository contains custom code and analysis workflows for the bioinformati
 ```text
 .
 ├── code/               # Python notebooks for analysis and R files for visualization
-├── helper/             # Helper functions and reusable Python modules      
+├── helpers/             # Helper functions and reusable Python modules      
 └── README.md
 ```
 
